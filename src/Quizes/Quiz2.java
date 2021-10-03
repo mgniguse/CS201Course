@@ -1,4 +1,4 @@
-package QuizesAndLabs;
+package Quizes;
 
 import java.util.Random;
 import java.util.Scanner;
